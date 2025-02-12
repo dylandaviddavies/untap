@@ -1,3 +1,4 @@
+@use 'sass:color';
 @use './components/fire';
 
 @import url('https://fonts.googleapis.com/css2?family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
@@ -171,7 +172,7 @@ a:visited,a {
   transition: background 0.3s ease-in-out;
 
   &:focus,&:hover {
-    background: transparentize(white, 0.9);
+    background: color.scale(white, $alpha: -90%);
   }
 }
 
