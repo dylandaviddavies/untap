@@ -1,0 +1,1 @@
+import{k as n,_ as l,S as u,F as a}from"./q-BmY9dTRl.js";const s=()=>n(a,{children:[l("header",null,{class:"header"},l("nav",null,null,l("ul",null,null,l("li",null,null,l("a",null,{href:"#home",class:"header__heading"},"untap",3,null),3,null),3,null),3,null),3,null),n(u,null,3,"yB_0")]},1,"yB_1");export{s as s_VKFlAWJuVm8};

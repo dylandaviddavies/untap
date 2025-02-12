@@ -7,7 +7,7 @@ import {
 import { RouterHead } from "./components/router-head/router-head";
 import { isDev } from "@builder.io/qwik";
 
-import "./global.css";
+import "./styles/index.scss";
 
 export default component$(() => {
   /**
