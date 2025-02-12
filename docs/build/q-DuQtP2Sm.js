@@ -1,1 +1,0 @@
-import{_ as t}from"./q-1dmHf4hc.js";import{c as o,q as r}from"./q-BmY9dTRl.js";const a=o(r(()=>t(()=>import("./q-Dpp9z1nr.js").then(e=>e.i),[]),"s_B0lqk5IDDy4")),m={title:"home // untap - MTG Deck Builder",meta:[{name:"description",content:"MTG Deck Builder"}]};export{a as default,m as head};
