@@ -4,7 +4,6 @@ import baseConfig from "../../vite.config";
 
 export default extendConfig(baseConfig, () => {
   return {
-    base: '/untap/',
     build: {
       ssr: true,
       rollupOptions: {
@@ -14,7 +13,7 @@ export default extendConfig(baseConfig, () => {
     plugins: [
       staticAdapter({
         origin: "https://dylandaviddavies.github.io",
-        base: '/untap/'
+        base: '/untap/',
       }),
     ],
   };
