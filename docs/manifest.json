@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "untap",
+  "short_name": "untap",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "An MTG deck builder."
+}
