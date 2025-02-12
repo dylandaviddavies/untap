@@ -12,7 +12,8 @@ export default extendConfig(baseConfig, () => {
     },
     plugins: [
       staticAdapter({
-        origin: "https://dylandaviddavies.github.io/untap",
+        origin: "https://dylandaviddavies.github.io",
+        base: "/untap/"
       }),
     ],
   };
